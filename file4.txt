@@ -1,2 +1,4 @@
 This is file 4
 There is one more line.
+second line.
+third line.
